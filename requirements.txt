@@ -2,3 +2,5 @@ openai
 python-dotenv
 sqlalchemy
 black
+pyautogui
+requests
